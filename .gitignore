@@ -1,0 +1,3 @@
+
+# We allow no env files to pass !!
+*.env
